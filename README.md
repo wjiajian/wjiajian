@@ -1,2 +1,3 @@
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jiajian&theme=react" /> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jiajian&show_icons=true&theme=react" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jiajian&show_icons=true&theme=graywhite" /> </div>
+<div align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiajian&layout=compact&theme=graywhite" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiajian&theme=vue" /> </div>
