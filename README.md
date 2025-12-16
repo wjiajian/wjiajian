@@ -6,7 +6,7 @@
 - 🤖 AI 开发
 - 👩 二次元
 - 🎮 游戏宅 - [游戏列表](./GameLife/GameLife.md)
-- 📺 爱看剧 - [影视剧集](./FilmeSeriesLife/FilmeSeriesLife.md)
+- 📺 爱看剧 - [影视剧集](./FilmeSeriesLife/ScreenLife.md)
 
 —— 谦虚、努力。
 
